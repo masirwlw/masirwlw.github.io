@@ -53,4 +53,4 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-Ma Xin is a master's student at Beijing Institute of Technology. Her research interests include computer audition, biomedical signal processing, and deep learning..
+Ma Xin is a master's student at Beijing Institute of Technology. Her research interests include computer audition, biomedical signal processing, and deep learning.
