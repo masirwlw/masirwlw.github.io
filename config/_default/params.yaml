@@ -34,15 +34,15 @@ header:
     show_search: true
     show_theme_chooser: true
 
-# Site footer
-footer:
-  copyright:
-    notice: '© {year} GXH.'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# # Site footer
+# footer:
+#   copyright:
+#     notice: '© {year} GXH.'
+#     license:
+#       enable: true
+#       allow_derivatives: false
+#       share_alike: true
+#       allow_commercial: false
 
 # Localization
 locale:
