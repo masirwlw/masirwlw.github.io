@@ -29,28 +29,5 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer audition, biomedical signal processing, deep learning, and more.
-
-# Social Networking
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-    icon: custom/github
-     url: https://github.com/masirwlw
-    icon: brands/instagram
-     url: https://www.instagram.com/
-  #- icon: brands/linkedin
-   # url: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  #- icon: academicons/cv
-  #  url: uploads/resume.pdf
-   # label: Download my resume
- # - icon: rss
-    #url: ./post/index.xml
-    #label: Subscribe to my blog via RSS feed
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Author's website URL
-website: ""
 ---
 Ma Xin is a master's student at Beijing Institute of Technology. Her research interests include computer audition, biomedical signal processing, and deep learning.
