@@ -49,7 +49,6 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
-# Site features
 features:
   math:
     enable: false
@@ -59,8 +58,11 @@ features:
     url: 'https://github.com/masirwlw/masirwlw.github.io/'
     content_dir: starters/blog/content
     branch: main
-  search:
-    enable: true
 
+params:
+  search:
+    provider: "wowchemy"
+    min_length: 1
+    threshold: 0.3
 # Site features
 
