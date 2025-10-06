@@ -33,12 +33,9 @@ bio: My research interests include computer audition, biomedical signal processi
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  #- icon: at-symbol
-  #  url: 'mailto:your-email@example.com'
-   # label: GitHub
-   - icon: brands/x
-     url: https://x.com/BuildLore
-  #- icon: brands/instagram
+   - icon: custom/github
+     url: https://github.com/masirwlw
+  # icon: brands/instagram
    # url: https://www.instagram.com/
   #- icon: brands/linkedin
    # url: https://www.linkedin.com/
