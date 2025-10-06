@@ -24,7 +24,8 @@ role: master's student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Ma Xin is a master's student at Beijing Institute of Technology. Her research interests include computer audition, biomedical signal processing, and deep learning.
+  - name: Ma Xin is a master's student at Beijing Institute of Technology. 
+    Her research interests include computer audition, biomedical signal processing, and deep learning.
     url: https://bhe-lab.org/
 
 # Short bio (displayed in user profile at end of posts)
