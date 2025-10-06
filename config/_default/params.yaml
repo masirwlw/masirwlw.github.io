@@ -16,7 +16,7 @@ marketing:
     org_name: ''
     description: 'A blog about my research and life.'
     twitter: 'masirwlw'
-    favicon: 'assets/media/icons/icon.png'  # 修正路径分隔符
+    favicon: 'assets\media\icons\icon.png'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -34,7 +34,7 @@ header:
     show_search: true
     show_theme_chooser: true
 
-# Site footer
+# # Site footer
 footer:
   copyright:
     notice: '© {year} GXH.'
@@ -49,7 +49,8 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
-# Site features (合并重复的features块)
+# Site features
+# Site features
 features:
   math:
     enable: false
