@@ -1,7 +1,7 @@
 ---
 title: 🎉 搭建成功后的第一条博客
 summary: 个人博客网站搭建目的
-date: 2025-10-1
+date: 2025-10-01
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -27,11 +27,6 @@ tags:
 ### 内容
 
 - 生活中的美景、美食和快乐的事情
-
 - 算法、技术和好的论文
-
-  
-
-
 
 [//]: #
