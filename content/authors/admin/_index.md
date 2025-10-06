@@ -10,7 +10,7 @@ first_name: Xin
 last_name: Ma
 
 # Pronouns (optional)
-pronouns: he/his
+#pronouns: he/his
 
 # Status emoji
 status:
@@ -20,14 +20,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: student 
+role: master's student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Beijing Institute of Technology
+  - name: Ma Xin is a master's student at Beijing Institute of Technology. Her research interests include computer audition, biomedical signal processing, and deep learning.
     url: https://bhe-lab.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer audition, biomedical signal processing, deep learning, and more.
+#bio: My research interests include computer audition, biomedical signal processing, deep learning, and more.
 ---
-<!-- 正文样式 --> <div class="roman-text">Ma Xin is a master's student at Beijing Institute of Technology. Her research interests include computer audition, biomedical signal processing, and deep learning.</div> <!-- 强调样式 -->
