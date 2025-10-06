@@ -24,7 +24,7 @@ role: Master's student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name:Beijing Institute of Technology. 
+  - name: Beijing Institute of Technology. 
     url: https://bhe-lab.org/
 
 # Short bio (displayed in user profile at end of posts)
