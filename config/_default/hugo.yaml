@@ -5,6 +5,7 @@
 
 title: "MaXin's Blog" # Website name
 baseURL: 'https://masirwlw.github.io/' # Website URL
+Icon: 'icon.png'
 
 ############################
 ## PAGE OPTIONS
