@@ -23,10 +23,11 @@ tags:
 
 1. 进入大学以来，知识的接收方式主要为视频和网文，深感自己的文书能力下降，创建博客网站总结日常提升能力。
 2. 复盘学习，总结得失。
-3. 我参考的是这个![模板]{[Home | Creator's Blog (Hugo Theme)](https://hugo-blog-theme.netlify.app/)}
+3. 我参考的是这个{[Home | Creator's Blog (Hugo Theme)](https://hugo-blog-theme.netlify.app/)}
 
 ### 内容
 
 - 生活中的美景、美食和快乐的事情
 - 算法、技术和好的论文
-- 还有好的表情：![](\img\b.gif)
+- 还有好的表情：![](.\img\b.gif)
+- ![](.\img\a.gif)
