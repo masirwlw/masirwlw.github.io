@@ -59,10 +59,5 @@ features:
     content_dir: starters/blog/content
     branch: main
 
-params:
-  search:
-    provider: "wowchemy"
-    min_length: 1
-    threshold: 0.3
 # Site features
 
