@@ -31,3 +31,5 @@ organizations:
 bio: My research interests include computer audition, biomedical signal processing, deep learning, and more.
 ---
 Ma Xin is a master's student at Beijing Institute of Technology. Her research interests include computer audition, biomedical signal processing, and deep learning.
+
+![](./icon.png)
