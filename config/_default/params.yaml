@@ -50,6 +50,7 @@ locale:
   time_format: '3:04 PM'
 
 # Site features
+# Site features
 features:
   math:
     enable: false
@@ -59,6 +60,9 @@ features:
     url: 'https://github.com/masirwlw/masirwlw.github.io/'
     content_dir: starters/blog/content
     branch: main
+  search:
+    enable: true
+    provider: wowchemy
   
 
 
