@@ -20,11 +20,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: A graduate student currently enrolled in a master's program
+role: student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Intelligent Assessment and Intervention for Brain HealthKey Laboratory of the Ministry of Education
+  - name: Beijing Institute of Technology
     url: https://bhe-lab.org/
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,10 +33,10 @@ bio: My research interests include computer audition, biomedical signal processi
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-   - icon: custom/github
+    icon: custom/github
      url: https://github.com/masirwlw
-  # icon: brands/instagram
-   # url: https://www.instagram.com/
+    icon: brands/instagram
+     url: https://www.instagram.com/
   #- icon: brands/linkedin
    # url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
