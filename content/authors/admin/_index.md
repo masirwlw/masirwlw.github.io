@@ -30,3 +30,4 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include computer audition, biomedical signal processing, deep learning, and more.
 ---
+                                                   ![](/img/mg.gif)
