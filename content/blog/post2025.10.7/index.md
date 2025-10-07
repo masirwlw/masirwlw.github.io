@@ -1,5 +1,5 @@
 ---
-title: 🎉 2025国庆节
+title: 🎉 2025年国庆节
 summary: 展示国庆节的美景
 date: 2025-10-07
 
@@ -42,7 +42,7 @@ tags:
 
    从学校坐地铁到北海北地铁站下车，全程大概40分钟。下了地铁就是经典的北京景点外观，红墙黄瓦。下了地铁沿着西安门大街向东步行约600m就可以到达北海的西南门。游园的顺序大概为从西南门进去，玩一圈从南门出。
 
-   ![](./img/bh1.jpg)
+   ![img](./img/bh1.jpg)
 
    ![](./img/bh7.jpg)
 
@@ -191,8 +191,3 @@ tags:
    ![](./img/y11.jpg)
 
    ![](./img/y13.jpg)
-
-
-<video width="320" height="240" controls>
-    <source src="./img/y12.mp4" type="video/mp4">
-</video>
