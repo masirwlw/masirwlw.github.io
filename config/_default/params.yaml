@@ -31,7 +31,7 @@ marketing:
 header:
   navbar:
     enable: true
-    show_search: true
+    show_search: false
     show_theme_chooser: false
 
 # # Site footer
@@ -52,17 +52,12 @@ locale:
 features:
   math:
     enable: false
-  search:
-    provider: wowchemy
-    wowchemy:
-      min_length: 1  # Only the matches whose length exceeds this value will be returned.
-      threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
   privacy_pack:
     enable: false
   repository:
-    # url: 'https://github.com/masirwlw/masirwlw.github.io/'
-    # content_dir: starters/blog/content
-    # branch: main
+    url: 'https://github.com/masirwlw/masirwlw.github.io/'
+    content_dir: starters/blog/content
+    branch: main
 
 
 # Site features
