@@ -31,7 +31,7 @@ marketing:
 header:
   navbar:
     enable: true
-    show_search: false
+    show_search: true
     show_theme_chooser: false
 
 # # Site footer
@@ -58,6 +58,8 @@ features:
     url: 'https://github.com/masirwlw/masirwlw.github.io/'
     content_dir: starters/blog/content
     branch: main
+  search:
+    enable: true
 
 # Site features
 
