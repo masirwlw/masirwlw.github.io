@@ -1,7 +1,7 @@
 ---
-title: 🎉 2026年国庆节
+title: 🎉 2025年国庆节
 summary: 展示国庆节的美景
-date: 2026-10-07
+date: 2025-10-07
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
