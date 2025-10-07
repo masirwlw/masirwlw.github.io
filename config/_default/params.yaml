@@ -52,14 +52,15 @@ locale:
 features:
   math:
     enable: false
+  search:
+    enable: true
   privacy_pack:
     enable: false
   repository:
     url: 'https://github.com/masirwlw/masirwlw.github.io/'
     content_dir: starters/blog/content
     branch: main
-  search:
-    enable: true
+
 
 # Site features
 
