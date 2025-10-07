@@ -60,9 +60,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/masirwlw/masirwlw.github.io/'
-    content_dir: starters/blog/content
-    branch: main
+    # url: 'https://github.com/masirwlw/masirwlw.github.io/'
+    # content_dir: starters/blog/content
+    # branch: main
 
 
 # Site features
