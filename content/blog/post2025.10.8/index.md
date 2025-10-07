@@ -15,7 +15,7 @@ authors:
 tags:
   - Life
 ---
-欢庆国庆！ 👋
+Citywalk！ 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
@@ -24,6 +24,6 @@ tags:
    ![](/img/cbd/c4.jpg)
    ![](/img/cbd/c5.jpg)
 
-   <video width="320" height="240" controls>
+<video width="320" height="240" controls>
     <source src="/img/cbd/c3.mp4" type="video/mp4">
 </video>
