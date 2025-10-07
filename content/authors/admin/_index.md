@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 马鑫
+title: 马 鑫
 
 # Name pronunciation (optional)
 name_pronunciation: Ma Xin
